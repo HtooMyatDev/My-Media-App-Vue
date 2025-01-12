@@ -6,5 +6,5 @@ To have a better understanding of the APIs very well, and life-cycle of VueJs.
 
 >[!TIP]
 > Make sure to run:
->`php artisan serve`
->`npm run dev`
+>`php artisan serve` and
+>`npm run dev`!
